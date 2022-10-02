@@ -26,6 +26,7 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 - Python
 - C++
 - Javascript
+- java
 
 
 ### Issues(Projects) for Beginners
